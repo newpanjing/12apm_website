@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  background-color: #0f172a; /* Slate 900 - dark background for lights */
+  color: #f8fafc; /* Slate 50 */
+}
