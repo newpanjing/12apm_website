@@ -82,7 +82,7 @@ const Home = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl text-slate-300 mb-8 max-w-2xl mx-auto"
           >
-            Create magical moments with 12apm's premium decorative lighting. 
+            Create magical moments with 12apm mall's premium decorative lighting. 
             Perfect for patios, bedrooms, and holidays.
           </motion.p>
           

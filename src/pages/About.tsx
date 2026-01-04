@@ -12,7 +12,7 @@ const About = () => {
         >
           <h1 className="text-4xl md:text-5xl font-bold mb-6">Illuminating Moments Since 2018</h1>
           <p className="text-lg text-slate-300 mb-6 leading-relaxed">
-            At 12apm, we believe that lighting is more than just visibility—it's about setting a mood, creating an atmosphere, and making memories. 
+            At 12apm mall, we believe that lighting is more than just visibility—it's about setting a mood, creating an atmosphere, and making memories. 
             Started by a group of design enthusiasts, we set out to create high-quality, durable, and beautiful lighting solutions for homes around the world.
           </p>
           <p className="text-lg text-slate-300 leading-relaxed">
@@ -35,7 +35,7 @@ const About = () => {
       </div>
 
       <div className="bg-slate-800 rounded-2xl p-8 md:p-12 text-center">
-        <h2 className="text-3xl font-bold mb-8">Why Choose 12apm?</h2>
+        <h2 className="text-3xl font-bold mb-8">Why Choose 12apm mall?</h2>
         <div className="grid md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-xl font-semibold text-yellow-400 mb-3">Customer First</h3>
